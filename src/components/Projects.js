@@ -10,11 +10,12 @@ import TrackVisibility from "react-on-screen";
 export const Projects = () => {
   const projects = [
     {
-      title: "Movie Recommender System",
+      title: "XpressBites",
       description:
-        "An application to recommend movies on different basis.My work,Designing and making the website and implementing the algorithms.",
-      imgUrl: projImg1,
-      plink: "https://movister.vercel.app/",
+        "A Food Ordering Application for Chandigarh University Students and Staff Members.",
+      imgUrl: projImg2,
+      plink:
+        "https://www.figma.com/file/zXG2D2xfcVtVHQysQexaOl/food-take-away-app?node-id=0%3A1&t=d68PWYqiN7Dk31xV-1",
     },
     {
       title: "Skin Disease Detection",
@@ -25,12 +26,11 @@ export const Projects = () => {
         "https://www.figma.com/file/bl5H3ho7Yr9uUN91gtFSIk/Skin-Disease-Diagnosis?node-id=0%3A1",
     },
     {
-      title: "XpressBites",
+      title: "Movie Recommender System",
       description:
-        "A Food Ordering Application for Chandigarh University Students and Staff Members.",
-      imgUrl: projImg2,
-      plink:
-        "https://www.figma.com/file/zXG2D2xfcVtVHQysQexaOl/food-take-away-app?node-id=0%3A1&t=d68PWYqiN7Dk31xV-1",
+        "An application to recommend movies on different basis.My work,Designing and making the website and implementing the algorithms.",
+      imgUrl: projImg1,
+      plink: "https://movister.vercel.app/",
     },
   ];
 
