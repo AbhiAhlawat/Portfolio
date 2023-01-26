@@ -14,8 +14,7 @@ export const Projects = () => {
       description:
         "A Food Ordering Application for Chandigarh University Students and Staff Members.",
       imgUrl: projImg2,
-      plink:
-        "https://www.figma.com/file/zXG2D2xfcVtVHQysQexaOl/food-take-away-app?node-id=0%3A1&t=d68PWYqiN7Dk31xV-1",
+      alink: "https://www.xpressbites.com",
     },
     {
       title: "Skin Disease Detection",
