@@ -83,7 +83,7 @@ export const NavBar = () => {
                 </a>
                 <a
                   href="https://github.com/AbhiAhlawat"
-                  alt="github"
+                  // alt="github"
                   target={_blank}
                 >
                   <img src={Github} />
