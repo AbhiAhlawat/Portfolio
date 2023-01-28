@@ -88,7 +88,7 @@ export const NavBar = () => {
                 >
                   <img src={Github} />
                 </a>
-                <a href="https://instagram.com/shek0109" target="_blank">
+                <a href="https://instagram.com/abhi.ahlawatt" target="_blank">
                   <img src={Instagram} alt="Instagram" />
                 </a>
               </div>
