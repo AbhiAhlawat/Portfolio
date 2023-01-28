@@ -14,7 +14,7 @@ export const Projects = () => {
       description:
         "A Food Ordering Application for Chandigarh University Students and Staff Members.",
       imgUrl: projImg2,
-      plink: "https://www.xpressbites.com",
+      plink: "https://xpressbites.com",
     },
     {
       title: "Skin Disease Detection",
